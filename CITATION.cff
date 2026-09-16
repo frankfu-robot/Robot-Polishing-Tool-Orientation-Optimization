@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Robot Polishing Tool-Orientation Optimization"
+type: software
+authors:
+  - family-names: "fu"
+    given-names: "kang"
+repository-code: "https://github.com/frankfu-robot/Robot-Polishing-Tool-Orientation-Optimization"
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-16"
+preferred-citation:
+  type: article
+  title: "Material-Removal-Driven Multi-Objective Tool Orientation Planning for Robotic Polishing under Point-Wise Heterogeneous Feasible Orientation Domains"
+  authors:
+    - family-names: "fu"
+      given-names: "kang"
+      family-names: "li"
+      given-names: "xiaogao"
+      family-names: "wang"
+      given-names: "xingguo"
+      family-names: "bu"
+      given-names: "fanqiang"
+  journal: "Advanced Engineering Informatics"
+  year: 2026
