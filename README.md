@@ -148,7 +148,7 @@ Additional geometric parameters are defined near the beginning of
 
 **Paper title:** Material-Removal-Driven Multi-Objective Tool Orientation Planning for Robotic Polishing under Point-Wise Heterogeneous Feasible Orientation Domains
 
-**Authors:** Kang Fu, Xiaogao Li, Xingguo Wang, Fanqiang Bu
+**Authors:** Kang Fu, Wenjun Yu, Xiaogao Li, Li Zhang, Fanqiang Bu, Xingguo Wang
 
 **Journal:** Advanced Engineering Informatics
 
