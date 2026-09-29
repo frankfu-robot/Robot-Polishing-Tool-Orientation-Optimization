@@ -11,15 +11,18 @@ version: "1.0.0"
 date-released: "2026-09-16"
 preferred-citation:
   type: article
-  title: "Material-Removal-Driven Multi-Objective Tool Orientation Planning for Robotic Polishing under Point-Wise Heterogeneous Feasible Orientation Domains"
+  title: "Material-Removal-Driven Multi-Objective Tool Orientation Planning for Robotic Polishing under Point-Wise Heterogeneous Feasible Domains"
   authors:
     - family-names: "fu"
       given-names: "kang"
+      family-names: Yu
+      given-names: Wenjun
       family-names: "li"
       given-names: "xiaogao"
-      family-names: "wang"
-      given-names: "xingguo"
+      family-names: Zhang
+      given-names: Li
       family-names: "bu"
       given-names: "fanqiang"
-  journal: "Advanced Engineering Informatics"
+      family-names: "wang"
+      given-names: "xingguo"
   year: 2026
