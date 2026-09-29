@@ -15,6 +15,3 @@ Typical outputs include:
 These files are intentionally not pre-populated here because they should be
 generated directly from the released source code rather than copied from an
 unverified run.
-
-If a fixed random seed is added to the optimization script, a versioned set of
-reference outputs may be stored here for exact reproducibility.
